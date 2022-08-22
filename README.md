@@ -1,5 +1,6 @@
 # 3do-ode-firmware
 
-the code will go here. For now it's an issue tracker for existing users.
+The official repository for firmware updates and menu images.
+
 
 license : TBD.
